@@ -1,3 +1,7 @@
+// The roof measures time in a century of rain, the cooling kettle in minutes.
+// The tide keeps its own rhythm, and starlight reaches back before there were eyes.
+// The slow pace gives each image room to settle before the scale shifts again.
+// The closing sentences bring that unhurried rhythm back to the reader.
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 const text = `Rain has fallen on this roof for a hundred years, and the roof does not mind. Downstairs, a kettle cools. The tide goes out without asking, and comes in. Tonight's light left its star before there were eyes. Nothing is waiting for you. Nothing is late.`;
